@@ -1,8 +1,8 @@
 import os
 
-# Always prefer setuptools over distutils
 from setuptools import find_packages, setup
-import kaggle_cassava  # noqa: E402
+
+import kaggle_cassava
 
 _PATH_HERE = os.path.abspath(os.path.dirname(__file__))
 
