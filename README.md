@@ -10,3 +10,9 @@ Organizers introduced a dataset of 21,367 labeled images collected during a regu
 ![Sample images](./assets/images.jpg)
 
 It seems that there are already a few [submissions/notebooks with PL](https://www.kaggle.com/c/cassava-leaf-disease-classification/notebooks?competitionId=13836&searchQuery=lightning).
+
+## Installation
+
+```bash
+! pip install https://github.com/Borda/kaggle_cassava-leaf-disease/archive/main.zip
+```
